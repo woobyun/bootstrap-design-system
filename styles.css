@@ -1,3 +1,16 @@
 body {
-    background-color: #e0d3be;
+    background-color: var(--neutral-color);
+    font-family: var(--primary-font);
+}
+
+:root {
+    --primary-color: #b0c4d1;
+    --secondary-color: #527148;
+    --tertiary-color: #cc98a6;
+    --highlight-color: #3a4c32;
+    --neutral-color: #e0d3be;
+    --text-color: #0a0a0a;
+    --blank: #f8f6f3;
+    --primary-font: 'DM Sans', sans-serif;
+    --secondary-font: 'Lora', serif;
 }
