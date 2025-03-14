@@ -14,3 +14,7 @@ body {
     --primary-font: 'DM Sans', sans-serif;
     --secondary-font: 'Lora', serif;
 }
+
+p, a, li {
+    font-family: var(--secondary-font);
+}
