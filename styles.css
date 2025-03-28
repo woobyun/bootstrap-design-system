@@ -81,13 +81,24 @@ p.italics {
     border-color: #9e6d7a;
 }
 .btn-warning {
-    background-color: var(--neutral-color);
-    border-color: var(--neutral-color);
+    background-color: d2b88f;
+    border-color: d2b88f;
     color: var(--text-color);
 }
 
 .btn-warning:hover {
     color: #fff;
-    background-color: #d2b88f;
-    border-color: #d2b88f;
+    background-color: #f7cc87;
+    border-color: #f7cc87;
+}
+
+.btn-outline-primary {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+}
+
+.btn-outline-primary:hover {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: #fff;
 }
