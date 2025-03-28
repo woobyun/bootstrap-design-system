@@ -45,3 +45,49 @@ p.italics {
     background-color: #5a7d94;
     border-color: #5a7d94;
 }
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    color: var(--text-color);
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #5a7d94;
+    border-color: #5a7d94;
+}
+
+.btn-success {
+    background-color: var(--highlight-color);
+    border-color: var(--highlight-color);
+    color: var(--text-color);
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #5a7d94;
+    border-color: #5a7d94;
+}
+.btn-danger {
+    background-color: var(--tertiary-color);
+    border-color: var(--tertiary-color);
+    color: var(--text-color);
+}
+
+.btn-danger:hover {
+    color: #fff;
+    background-color: #5a7d94;
+    border-color: #5a7d94;
+}
+.btn-warning {
+    background-color: var(--neutral-color);
+    border-color: var(--neutral-color);
+    color: var(--text-color);
+}
+
+.btn-warning:hover {
+    color: #fff;
+    background-color: #5a7d94;
+    border-color: #5a7d94;
+}
