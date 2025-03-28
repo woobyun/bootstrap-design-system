@@ -54,8 +54,8 @@ p.italics {
 
 .btn-secondary:hover {
     color: #fff;
-    background-color: #5a7d94;
-    border-color: #5a7d94;
+    background-color: #384e31;
+    border-color: #384e31;
 }
 
 .btn-success {
@@ -66,8 +66,8 @@ p.italics {
 
 .btn-success:hover {
     color: #fff;
-    background-color: #5a7d94;
-    border-color: #5a7d94;
+    background-color: #5b7e4c;
+    border-color: #5b7e4c;
 }
 .btn-danger {
     background-color: var(--tertiary-color);
@@ -77,8 +77,8 @@ p.italics {
 
 .btn-danger:hover {
     color: #fff;
-    background-color: #5a7d94;
-    border-color: #5a7d94;
+    background-color: #9e6d7a;
+    border-color: #9e6d7a;
 }
 .btn-warning {
     background-color: var(--neutral-color);
@@ -88,6 +88,6 @@ p.italics {
 
 .btn-warning:hover {
     color: #fff;
-    background-color: #5a7d94;
-    border-color: #5a7d94;
+    background-color: #d2b88f;
+    border-color: #d2b88f;
 }
