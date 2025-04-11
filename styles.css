@@ -102,3 +102,41 @@ p.italics {
     border-color: var(--primary-color);
     color: #fff;
 }
+
+
+
+
+.form-selection {
+    font-family: var(--secondary-font);
+}
+
+.card {
+    max-width: 400px;
+}
+
+.alert {
+    font-family: var(--secondary-font);
+}
+
+.alert-primary {
+    background-color: var(--tertiary-color);
+    border-color: var(--tertiary-color);
+    color: var(--text-color);
+}
+
+.alert-success {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: var(--text-color);
+}
+
+.alert-warning {
+    background-color: #f7cc87;
+    border-color: #f7cc87;
+    color: var(--text-color);    
+}
+
+
+.image-thumbnails {
+    max-width: 400px;
+}
