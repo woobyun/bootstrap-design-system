@@ -103,8 +103,17 @@ p.italics {
     color: #fff;
 }
 
+.navbar {
+    font-family: var(--secondary-font);
+}
 
+.navbar-body-tertiary {
+    background-color: var(--neutral-color);
+}
 
+.btn-outline-success {
+    color: var(--secondary-color);
+}
 
 .form-selection {
     font-family: var(--secondary-font);
@@ -113,6 +122,12 @@ p.italics {
 .card {
     max-width: 400px;
 }
+
+.card-img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
 
 .alert {
     font-family: var(--secondary-font);
@@ -140,3 +155,8 @@ p.italics {
 .image-thumbnails {
     max-width: 400px;
 }
+
+.bi {
+    width: 48px;
+    height: 48px;
+  }
